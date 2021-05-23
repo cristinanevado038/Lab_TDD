@@ -1,0 +1,5 @@
+c:\users\cristina\documents\visual studio 2012\Projects\Calculadora_TDD\Calculadora_TDD_Test\bin\Debug\Calculadora_TDD_Test.dll
+c:\users\cristina\documents\visual studio 2012\Projects\Calculadora_TDD\Calculadora_TDD_Test\bin\Debug\Calculadora_TDD_Test.pdb
+c:\users\cristina\documents\visual studio 2012\Projects\Calculadora_TDD\Calculadora_TDD_Test\obj\Debug\Calculadora_TDD_Test.csprojResolveAssemblyReference.cache
+c:\users\cristina\documents\visual studio 2012\Projects\Calculadora_TDD\Calculadora_TDD_Test\obj\Debug\Calculadora_TDD_Test.dll
+c:\users\cristina\documents\visual studio 2012\Projects\Calculadora_TDD\Calculadora_TDD_Test\obj\Debug\Calculadora_TDD_Test.pdb

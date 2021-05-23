@@ -1,0 +1,9 @@
+c:\users\cristina\documents\visual studio 2012\Projects\Calculadora_TDD\Calculadora_TDD\bin\Debug\Calculadora.exe.config
+c:\users\cristina\documents\visual studio 2012\Projects\Calculadora_TDD\Calculadora_TDD\bin\Debug\Calculadora.exe
+c:\users\cristina\documents\visual studio 2012\Projects\Calculadora_TDD\Calculadora_TDD\bin\Debug\Calculadora.pdb
+c:\users\cristina\documents\visual studio 2012\Projects\Calculadora_TDD\Calculadora_TDD\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\cristina\documents\visual studio 2012\Projects\Calculadora_TDD\Calculadora_TDD\obj\Debug\Calculadora.exe
+c:\users\cristina\documents\visual studio 2012\Projects\Calculadora_TDD\Calculadora_TDD\obj\Debug\Calculadora.pdb
+C:\Users\cristina\ISA\Calculadora_TDD\Calculadora_TDD\bin\Debug\Calculadora.exe.config
+C:\Users\cristina\ISA\Calculadora_TDD\Calculadora_TDD\obj\Debug\Calculadora.exe
+C:\Users\cristina\ISA\Calculadora_TDD\Calculadora_TDD\obj\Debug\Calculadora.pdb
