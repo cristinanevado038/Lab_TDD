@@ -96,5 +96,20 @@ namespace UnitTestProject1
             //Assert
             Assert.AreEqual(resEsperado, resOperacion);
         }
+        [TestMethod]
+        public void TestDivision()
+        {
+            //Arrange
+            int a = 30;
+            int b = 3;
+            int resEsperado = 10;
+            int resOperacion = 0;
+
+            //Act
+            resOperacion = Calculadora.Calculadora.Division(a, b);
+
+            //Assert
+            Assert.AreEqual(resEsperado, resOperacion);
+        }
     }
 }
