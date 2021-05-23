@@ -1,0 +1,7 @@
+C:\Users\cristina\ISA\Calculadora_TDD\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\cristina\ISA\Calculadora_TDD\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\cristina\ISA\Calculadora_TDD\UnitTestProject1\bin\Debug\Calculadora.exe
+C:\Users\cristina\ISA\Calculadora_TDD\UnitTestProject1\bin\Debug\Calculadora.pdb
+C:\Users\cristina\ISA\Calculadora_TDD\UnitTestProject1\obj\Debug\Calculadora_Test.csprojResolveAssemblyReference.cache
+C:\Users\cristina\ISA\Calculadora_TDD\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\cristina\ISA\Calculadora_TDD\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

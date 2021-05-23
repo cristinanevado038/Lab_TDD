@@ -16,5 +16,10 @@ namespace Calculadora
         {
             return a + b;
         }
+
+        public static int Resta(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
