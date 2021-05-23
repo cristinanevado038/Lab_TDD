@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace Calculadora
 {
-    class Calculadora
+    public class Calculadora
     {
         static void Main(string[] args)
         {
         }
+
+       
     }
 }
