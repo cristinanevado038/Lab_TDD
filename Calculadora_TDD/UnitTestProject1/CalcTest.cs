@@ -36,5 +36,35 @@ namespace UnitTestProject1
             //Assert
             Assert.AreEqual(resEsperado, resOperacion);
         }
+        [TestMethod]
+        public void TestRestaPos()
+        {
+            //Arrange
+            int a = 6;
+            int b = 2;
+            int resEsperado = 4;
+            int resOperacion = 0;
+
+            //Act
+            resOperacion = Calculadora.Calculadora.Resta(a, b);
+
+            //Assert
+            Assert.AreEqual(resEsperado, resOperacion);
+        }
+        [TestMethod]
+        public void TestRestaNeg()
+        {
+            //Arrange
+            int a = -1;
+            int b = 9;
+            int resEsperado = -10;
+            int resOperacion = 0;
+
+            //Act
+            resOperacion = Calculadora.Calculadora.Resta(a, b);
+
+            //Assert
+            Assert.AreEqual(resEsperado, resOperacion);
+        }
     }
 }
