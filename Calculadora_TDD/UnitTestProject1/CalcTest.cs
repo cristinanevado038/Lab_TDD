@@ -117,8 +117,8 @@ namespace UnitTestProject1
         {
             //Arrange
             int valor = 2;
-            float resEsperado = 1.414214F;
-            float resOperacion = 0;
+            double resEsperado = 1.414214;
+            double resOperacion = 0.0;
 
             //Act
             resOperacion = Calculadora.Calculadora.RaizCuadrada(valor);
@@ -136,12 +136,12 @@ namespace UnitTestProject1
                 }
                 else
                 {
-                    float diferencia = resEsperado - resOperacion;
+                    double diferencia = resEsperado - resOperacion;
                     if (diferencia < 0)
                     {
                         diferencia *= -1;
                     }
-                    Assert.IsTrue(diferencia.CompareTo(diferencia) <= 0.00001F);
+                    Assert.IsTrue(diferencia.CompareTo(diferencia) <= 0.00001);
                 }
             }
         }

@@ -31,5 +31,27 @@ namespace Calculadora
         {
             return a / b;
         }
+        
+        public static double valorAbsoluto(double num)
+        {
+            if (num < 0)
+            {
+                return num * -1;
+            }
+            return num;
+        }
+
+        public static double RaizCuadrada(int a)
+        {
+            double margen = 0.000001;
+            double estimacion = 1.0;
+            while (valorAbsoluto((estimacion * estimacion) - a) >= margen)
+            {
+                double cociente = a / estimacion;
+                double promedio = (cociente + estimacion) / 2.0;
+                estimacion = promedio;
+            }
+            return estimacion;
+        }
     }
 }
