@@ -111,5 +111,39 @@ namespace UnitTestProject1
             //Assert
             Assert.AreEqual(resEsperado, resOperacion);
         }
+
+        [TestMethod]
+        public void TestRaizCuadrada()
+        {
+            //Arrange
+            int valor = 2;
+            float resEsperado = 1.414214F;
+            float resOperacion = 0;
+
+            //Act
+            resOperacion = Calculadora.Calculadora.RaizCuadrada(valor);
+
+            //Assert
+            if (valor == 0)
+            {
+                Assert.AreEqual(0, resOperacion);
+            }
+            else
+            {
+                if (valor == 1)
+                {
+                    Assert.AreEqual(0, resOperacion);
+                }
+                else
+                {
+                    float diferencia = resEsperado - resOperacion;
+                    if (diferencia < 0)
+                    {
+                        diferencia *= -1;
+                    }
+                    Assert.IsTrue(diferencia.CompareTo(diferencia) <= 0.00001F);
+                }
+            }
+        }
     }
 }
